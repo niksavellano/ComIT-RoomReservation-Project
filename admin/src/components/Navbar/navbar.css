@@ -1,0 +1,14 @@
+h2 {
+  color: white;
+}
+#serve {
+  color: #e85a4f;
+}
+ul {
+  width: 100%;
+}
+
+li:nth-child(4) {
+  text-align: right;
+  width: 100%;
+}

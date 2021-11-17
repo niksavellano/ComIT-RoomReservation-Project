@@ -1,0 +1,20 @@
+.form-group,
+.btn3 {
+  width: 100%;
+}
+.btn3 {
+  margin-top: 5px;
+}
+.jumbotron {
+  width: 100%;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-content: center;
+}
+div.posts {
+  background-color: #e98074;
+  margin: 3px;
+  padding: 100px;
+  border-radius: 5px;
+}
